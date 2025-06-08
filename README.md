@@ -2,6 +2,14 @@
 
 A comprehensive restaurant management system with inventory tracking, order processing, analytics, and AI-powered predictions using Prophet by Meta.
 
+## SCREENSHOTS
+![WhatsApp Image 2025-06-04 at 20 12 11_cd3dffd6](https://github.com/user-attachments/assets/7053f384-821b-460e-a785-17d00f481f82)
+![WhatsApp Image 2025-06-04 at 20 13 27_eb45eadd](https://github.com/user-attachments/assets/3c93e0a2-332b-4809-a211-3f7549e61a0e)
+![WhatsApp Image 2025-06-04 at 20 13 47_ee4d7afc](https://github.com/user-attachments/assets/c201d48a-6b5a-4ecb-9a2a-fa07c944f4f5)
+![WhatsApp Image 2025-06-04 at 20 14 06_6abf0a42](https://github.com/user-attachments/assets/1c6f4617-469e-41f9-ba1e-bcaa8b2c3017)
+![WhatsApp Image 2025-06-04 at 20 14 27_e8283523](https://github.com/user-attachments/assets/8231cf9b-7086-414c-aee2-b33f021c0f27)
+
+
 ## Features
 
 ### Core Functionality
